@@ -56,5 +56,4 @@ The Artisans Collective is an e-commerce platform that connects local artisans w
 3. Install dependencies for both frontend and backend.
 4. Start the frontend and backend servers.
 
-## License:
-[MIT](LICENSE)
+
