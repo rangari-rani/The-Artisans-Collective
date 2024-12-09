@@ -2,6 +2,11 @@
 
 The Artisans Collective is an e-commerce platform that connects local artisans with customers to showcase and sell handcrafted products, promoting unique and sustainable goods.
 
+![Product-List](https://github.com/rangari-rani/The-Artisans-Collective/blob/e8dbbb7beb325a0e88b5ee0a23e19abe074288cd/art1.png)
+![Product-Description](https://github.com/rangari-rani/The-Artisans-Collective/blob/e8dbbb7beb325a0e88b5ee0a23e19abe074288cd/art2.png)
+![Login](https://github.com/rangari-rani/The-Artisans-Collective/blob/e8dbbb7beb325a0e88b5ee0a23e19abe074288cd/art4.png)
+
+
 ## Tech Stack:
 - **Frontend**: React.js (Vite), Redux Toolkit, React Hooks, Tailwind CSS
 - **Backend**: Spring Boot
@@ -50,10 +55,6 @@ The Artisans Collective is an e-commerce platform that connects local artisans w
 - **JWT Token Authentication**: Issued after email verification for secure login.
 - **Role-based Authentication**: Ensures users, sellers, and admins have appropriate access.
 
-## Setup Instructions:
-1. Clone the repository.
-2. Set up MySQL database.
-3. Install dependencies for both frontend and backend.
-4. Start the frontend and backend servers.
+
 
 
