@@ -18,7 +18,7 @@ Some of the technologies used in the development of this web application are as 
 
 ## Features
 
-## Authentication & Authorization:
+### Authentication & Authorization:
 - **Registration & Validation**: User details are validated using Yup, and an OTP is generated using Formic during registration.
 - **Email Verification**: OTP is sent via Java Mail Sender for account verification.
 - **JWT Token Authentication**: Issued after email verification for secure login.
