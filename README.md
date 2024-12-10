@@ -29,7 +29,7 @@ Some of the technologies used in the development of this web application are as 
 ### User Features:
 1. **Product Management**:
   - **Fetch product list** : Users can browse through available products.
-  - **Filter & Sort** : Filter products by categories and sort them by price.
+  - **Search, Filter & Sort** : Search & filter products by categories and sort them by price.
   - **Pagination** : Display products in multiple pages.
   - **Product Details** : View detailed information about specific product.
 
