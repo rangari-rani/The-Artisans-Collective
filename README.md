@@ -61,7 +61,8 @@ Some of the technologies used in the development of this web application are as 
 ### Admin Features:
 - **Home Page Management** : Update and customize the home page through admin panel.
 
-
+### License:
+[MIT License](LICENSE)
 
 
 
