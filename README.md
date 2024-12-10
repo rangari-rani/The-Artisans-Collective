@@ -2,6 +2,8 @@
 
 The Artisans Collective is an e-commerce platform that connects local artisans with customers to showcase and sell handcrafted products, promoting unique and sustainable goods.
 
+## Demo:
+
 ![Product-List](https://github.com/rangari-rani/The-Artisans-Collective/blob/e8dbbb7beb325a0e88b5ee0a23e19abe074288cd/art1.png)
 
 ![Product-Description](https://github.com/rangari-rani/The-Artisans-Collective/blob/e8dbbb7beb325a0e88b5ee0a23e19abe074288cd/art2.png)
