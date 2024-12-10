@@ -24,7 +24,7 @@ Some of the technologies used in the development of this web application are as 
 - **Registration & Validation**: User details are validated using Yup, and an OTP is generated using Formic during registration.
 - **Email Verification**: OTP is sent via Java Mail Sender for account verification.
 - **JWT Token Authentication**: Issued after email verification for secure login.
-- **Role-based Authentication**: Ensures users, sellers, and admins have appropriate access.
+- **Role-based Authentication**: Ensures users, sellers and admins have appropriate access.
 
 ### User Features:
 1. **Product Management**:
